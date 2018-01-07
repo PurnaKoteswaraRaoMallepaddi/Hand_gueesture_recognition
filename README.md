@@ -12,6 +12,6 @@ guessing the orintation of the hand and out putting the voice messages that are 
 -Then the model will be created and stored in the format of  `.h5` file for the furthur use.
 
 ##Output format:
--Out of all i have used 3 classes for the Convelutional model to  determine which class the image depend upon.
--The out put format is always a softmax vector of probabilities and the maximum one too.
--We can apply the out put aany where as of now i  am trying to apply it for understanding the signs of the dumb people.
+- Out of all i have used 3 classes for the Convelutional model to  determine which class the image depend upon.
+- The out put format is always a softmax vector of probabilities and the maximum one too.
+- We can apply the out put aany where as of now i  am trying to apply it for understanding the signs of the dumb people.
